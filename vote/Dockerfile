@@ -1,5 +1,5 @@
 # Using official python runtime base image
-FROM microsoft/windowsservercore
+FROM mcr.microsoft.com/windows/servercore:ltsc2019
 
 MAINTAINER alexellis2@gmail.com
 
